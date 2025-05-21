@@ -4,8 +4,8 @@ It's likely written in Python and run using the streamlit run command.
 The purpose of this app is to introduce yourself explain your skills and provide links to your professional profiles.
 
 #Key Components of the App:
-**1. Sidebar - Quick Links**
 
+**1. Sidebar - Quick Links**
 Located on the left side, this provides navigation and contact links:
 LinkedIn
 GitHub
