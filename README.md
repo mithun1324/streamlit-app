@@ -5,6 +5,7 @@ The purpose of this app is to introduce yourself explain your skills and provide
 
 #Key Components of the App:
 **1. Sidebar - Quick Links**
+
 Located on the left side, this provides navigation and contact links:
 LinkedIn
 GitHub
