@@ -7,8 +7,8 @@ The purpose of this app is to introduce yourself explain your skills and provide
 
 **1. Sidebar - Quick Links**
 Located on the left side, this provides navigation and contact links:
-LinkedIn
-GitHub
+LinkedIn,
+GitHub,
 Email.
 
 **2. Main Section**
